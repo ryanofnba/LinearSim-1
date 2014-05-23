@@ -8,6 +8,8 @@ int main(int argc, char** argv) {
    int value = 0, fixed = 0; // current value and whether or not it is fixed
    int uid; // unique id for this cell
 
+   //testing stuff
+
    argv++;
    while(*argv) {
       char* arg = *argv;
